@@ -1,3 +1,10 @@
-*/.exercism/
-*/LICENSE
-*/node_modules/
+**/LICENSE
+**/.exercism/
+**/node_modules/
+**/.npmrc
+**/babel.config.js
+**/HELP.md
+**/package.json
+**/package-lock.json
+**/.eslintrc
+**/.gitignore

@@ -1,0 +1,10 @@
+- [] `constructor()` - Creates a roster
+  - [] Roster is empty object on creation `{}`
+- [] `.add()` - can add to a roster
+  - [] adds to grade in format `{ <grade>: [<arr of students>]}`
+  - [] Adds to grade in alphabetical order
+  - [] prevents duplicate names across all grades
+- [] `.grade()` - returns the array of students
+  - [] returns empty array if no students in that grade
+- [] `.roster()` - returns the roster for the whole school
+  - [] Ensure can't modify the roster outside of returning it
