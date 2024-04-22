@@ -1,7 +1,12 @@
-//
-// This is only a SKELETON file for the 'Forth' exercise. It's been provided as a
-// convenience to get you started writing code faster.
-//
+/**
+ *  Code that you can read and reason about is more important than line count!
+ *  I strive to keep all my solutions simple, efficient, and straightforward.
+ *  I don't always succeed but I do my best and feedback is welcome.
+ * 
+ *  Check out my solutions: https://exercism.org/profiles/Nostromos
+ */
+
+const WORDS = ['+', '-', '*', '/', 'DUP', 'DROP', 'SWAP', 'OVER'];
 
 export class Forth {
   constructor() {
@@ -16,3 +21,4 @@ export class Forth {
     throw Error('Remove this statement and implement this function');
   }
 }
+``
